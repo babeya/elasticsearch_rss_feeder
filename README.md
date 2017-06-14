@@ -1,0 +1,1 @@
+elasticsearch_rss_feeder
